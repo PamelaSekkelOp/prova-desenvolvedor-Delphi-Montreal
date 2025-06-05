@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/04 16:29:56.000.380,=C:\Users\MTi Informatica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/04 16:38:40.000.689,C:\Users\MTi Informatica\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\MTi Informatica\Desktop\Etapa2\UPrincipal.dfm</Transaction>
+    <Transaction>2025/06/04 16:38:40.000.688,C:\Users\MTi Informatica\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\MTi Informatica\Desktop\Etapa2\UPrincipal.pas</Transaction>
+    <Transaction>2025/06/04 16:38:48.000.132,C:\Users\MTi Informatica\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\MTi Informatica\Desktop\Etapa2\Etapa2.dproj</Transaction>
+    <Transaction>2025/06/05 10:51:09.000.402,=C:\Users\MTi Informatica\Desktop\Etapa2\Unit1.pas</Transaction>
+    <Transaction>2025/06/05 10:51:23.000.620,C:\Users\MTi Informatica\Desktop\Etapa2\UCadastroTarefa.dfm=C:\Users\MTi Informatica\Desktop\Etapa2\Unit1.dfm</Transaction>
+    <Transaction>2025/06/05 10:51:23.000.620,C:\Users\MTi Informatica\Desktop\Etapa2\UCadastroTarefa.pas=C:\Users\MTi Informatica\Desktop\Etapa2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
